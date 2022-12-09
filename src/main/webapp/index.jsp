@@ -22,7 +22,7 @@
                         <a class="nav-link" href="tache">Mes tâches</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Ajouter une tâche</a>
+                        <a class="nav-link" href="tache/ajouter">Ajouter une tâche</a>
                     </li>
                 </ul>
             </div>
